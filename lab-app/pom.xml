@@ -83,7 +83,7 @@
 
         <!-- 🧪 Testing (FIXED) -->
         <dependency>
-            <groupId>org.springframework.boot</groupId>
+            <groupId>org.springframewor</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
