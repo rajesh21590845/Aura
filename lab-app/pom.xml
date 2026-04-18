@@ -10,6 +10,8 @@
     <parent>
         <dependency>
             <groupId>org.springframework</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+            <version>3.3.5</version>gframework</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <version>3.3.5</version>
             <scope>test</scope>
@@ -38,6 +40,8 @@
         <dependency>
             <dependency>
             <groupId>org.springframework</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+            <version>3.3.5</version>gframework</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <version>3.3.5</version>
             <scope>test</scope>
@@ -49,6 +53,8 @@
         <dependency>
             <dependency>
             <groupId>org.springframework</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+            <version>3.3.5</version>gframework</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <version>3.3.5</version>
             <scope>test</scope>
@@ -60,6 +66,8 @@
         <dependency>
             <dependency>
             <groupId>org.springframework</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+            <version>3.3.5</version>gframework</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <version>3.3.5</version>
             <scope>test</scope>
@@ -105,6 +113,8 @@
         <dependency>
             <dependency>
             <groupId>org.springframework</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+            <version>3.3.5</version>gframework</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <version>3.3.5</version>
             <scope>test</scope>
@@ -122,6 +132,8 @@
             <plugin>
                 <dependency>
             <groupId>org.springframework</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+            <version>3.3.5</version>gframework</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <version>3.3.5</version>
             <scope>test</scope>
